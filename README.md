@@ -1,7 +1,7 @@
 ### <div align="center">I'm Karen Cardenas, a full-time developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning Laravel and Jquery.  
+- 🌱 I’m currently learning ReactJS.  
   
 
 - 🕹️ I like to play sports and visit new places.  
